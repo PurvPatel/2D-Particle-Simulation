@@ -1,5 +1,7 @@
 # Welcome to Particle Simulation
 
+## Usage
+- Run 'make' on linux terminal or a mingw64 (get msys2) terminal if on windows.
 
 ## Menu
 
