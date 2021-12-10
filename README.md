@@ -1,8 +1,7 @@
-<h1>Welcome to Particle Simulation</h1>
+# Welcome to Particle Simulation
 
 
-<h3>Menu</h3>
-------------------------------------------------------------
+## Menu
 
 - Adding a particle:
 Press 'a' and a particle will be added at the cursor location, make sure to place the cursor inside the window.
@@ -32,19 +31,18 @@ Use 'UP_ARROW_KEY' to increase, or 'DOWN_ARROW_KEY' to decrease the speeds of pa
 Press 'g' to toggle gravity on and off.
 
 
-------------------------------------------------------------
+## Extra Features
 
-<h3>Extra Features</h3>
+- Improved physics: Particles have acceleration and velocity to provide more realistic movements when acted upon by forces.
+- Bounded Particles: Particles will bounce off of the window borders instead of going off of them.
+- Gravity Mode: Gravity can be toggled on and off.
 
-1. Improved physics: Particles have acceleration and velocity to provide more realistic movements when acted upon by forces.
-2. Bounded Particles: Particles will bounce off of the window borders instead of going off of them.
-3. Gravity Mode: Gravity can be toggled on and off.
-
-------------------------------------------------------------
-
-<h3>Helpful Tips and Notes</h3>
+## Helpful Tips and Notes
 - Attraction and repulsion are forces so you will be able to see particles orbit around attracting forces and be bounced away from repelling forces.
 - Since these are forces, their affects on particle speeds will be present a bit after the forces fade away.
 - There is a artifical decay programmed into the particles to stimulate air friction to eventually slow down and stop the particles.
 - You can still interact through attracting and repelling forces even when gravity is enabled.
 - Particles are bounded by the window and will bounce off the edges to provide a better simulation.
+
+## Author
+- Purv Patel
